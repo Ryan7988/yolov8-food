@@ -1,0 +1,21 @@
+path: D:\yolov8-food\dataset
+train: 'train/images'
+val: 'valid/images'
+
+# class names
+names:
+  0: 'carroteggs'
+  1: 'chickennuggets'
+  2: 'sausage'
+  3: 'curry'
+  4: 'frieddumplings'
+  5: 'friedeggs'
+  6: 'beansprouts'
+  7: 'rice'
+  8: 'Potatocake'
+  9: 'waterspinach'
+  10: 'Friedchickenlegs'
+  11: 'brocoli'
+  12: 'cabbage'
+  13: 'DONTUSE'
+  14: 'Friedchickensteak'
